@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="https://lgustavosb.github.io/DesafioWordpressPixel/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lgustavosb.github.io/DesafioWordpressPixel/hello-world/</link>
+	Comments for Pixel &#8211; Soluções Digitais	</title>
+	<atom:link href="https://lgustavosb.github.io/DesafioWordpressPixel/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lgustavosb.github.io/DesafioWordpressPixel/</link>
 	<description></description>
 	<lastBuildDate>Tue, 10 Oct 2023 04:06:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://lgustavosb.github.io/DesafioWordpressPixel/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

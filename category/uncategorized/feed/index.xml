@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Pixel &#8211; Soluções Digitais</title>
-	<atom:link href="https://lgustavosb.github.io/DesafioWordpressPixel/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Pixel &#8211; Soluções Digitais</title>
+	<atom:link href="https://lgustavosb.github.io/DesafioWordpressPixel/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lgustavosb.github.io/DesafioWordpressPixel/</link>
 	<description></description>
 	<lastBuildDate>Tue, 10 Oct 2023 04:06:45 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://lgustavosb.github.io/DesafioWordpressPixel/wp-content/uploads/2023/10/Vector.png</url>
-	<title>Pixel &#8211; Soluções Digitais</title>
+	<title>Uncategorized &#8211; Pixel &#8211; Soluções Digitais</title>
 	<link>https://lgustavosb.github.io/DesafioWordpressPixel/</link>
 	<width>32</width>
 	<height>32</height>
